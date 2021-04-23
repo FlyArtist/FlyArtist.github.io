@@ -6,6 +6,12 @@
 ## Triangle
 
 
-**单色版** <https://flyartist.github.io/Triangle-template/singlecolor/index.html>
+**单色版** <https://flyartist.github.io/Triangle-website-template/singlecolor/index.html>
 
-**多色版** <https://flyartist.github.io/Triangle-template/multicolor/index.html>
+**多色版** <https://flyartist.github.io/Triangle-website-template/multicolor/index.html>
+
+## Bardy
+
+电商网站模板，基于Bootstrap4，响应式全局适配
+
+<https://flyartist.github.io/Bardy-eCommerce-template/bardy/index.html>
